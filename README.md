@@ -8,6 +8,6 @@
 ## 安装方式
 
 1. 打开ComfyUI Manager
-2. 把地址填写进去`https://github.com/Joder-project/comfyui-comfy-master`
+2. 把地址填写进去`https://github.com/Joder-project/comfyui-comfy-master.git`
 3. 在分类`comfy-master`即可找到对应节点
 
