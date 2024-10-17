@@ -25,8 +25,8 @@ class InputImageNode:
             }
         }
 
-    RETURN_TYPES = ("IMAGE", "MASK", "BOOLEAN")
-    RETURN_NAMES = ("image", "mask", "export")
+    RETURN_TYPES = ("IMAGE", "MASK")
+    RETURN_NAMES = ("image", "mask")
     CATEGORY = "comfyui-master"
     FUNCTION = "input_image"
 
@@ -44,7 +44,7 @@ class InputImageNode:
         img = np.array(img).astype(np.float32) / 255.0
         img = torch.from_numpy(img)[None,]
 
-        return (img, mask, export)
+        return (img, mask)
     
 
 class InputStringNode:
