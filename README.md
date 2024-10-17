@@ -4,7 +4,7 @@
 
 [官网](https://comfy-master.happytangping.fun/) 
 | [其他工具下载地址](https://github.com/Joderxx/ComyUI-Master/releases/tag/latest)
-| [QQ交流](点击链接加入群聊【Comfy大师反馈交流群】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=oI2YNYV-ukVXl0vYr5qwv8j9gIzxrAvo&authKey=0AFjeeY8PVsPQBMg8BmPTfveJp373xgKI4GZ%2BoZ26rTaYBIsDc2ZhHcyW%2B4l8Jrf&noverify=0&group_code=635299047)
+| [QQ交流](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=oI2YNYV-ukVXl0vYr5qwv8j9gIzxrAvo&authKey=0AFjeeY8PVsPQBMg8BmPTfveJp373xgKI4GZ%2BoZ26rTaYBIsDc2ZhHcyW%2B4l8Jrf&noverify=0&group_code=635299047)
 ## 安装方式
 
 1. 打开ComfyUI Manager
